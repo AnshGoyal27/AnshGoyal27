@@ -13,7 +13,7 @@
 <a align="center" href="https://www.instagram.com/anshgoyal27/">
   <img align="left" alt="Ansh's Instagram" width="30px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
-
+<br/>
 
 
 # Skills
