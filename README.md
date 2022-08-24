@@ -14,10 +14,7 @@
   <img align="left" alt="Ansh's Instagram" width="30px" src="https://raw.githubusercontent.com/zenPidgin/instagram_svg/8330bc7954493d18badc36dd73b4958130edb0a0/instagram.svg" />
 </a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/AnshGoyal27/count.svg" />
-</p>
+
 
 # Skills
 
@@ -30,6 +27,11 @@
 [![Ansh Goyal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnshGoyal27&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshGoyal27&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/AnshGoyal27/count.svg" />
+</p>
 
 <!---
 AnshGoyal27/AnshGoyal27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
