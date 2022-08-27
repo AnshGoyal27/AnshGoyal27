@@ -4,7 +4,7 @@
 - 🖋️Student at Maharaja Agrasen Institute of Technology CSE'25
 - 👀 I’m interested in Programming, Basketball, Football, Writing Content(Poem)
 - 🌱 I’m currently learning MERN stack from [Brain Mentors](https://brain-mentors.com)
-- 💞️ I’m looking to collaborate on Web Development 
+- 🤝 I’m looking to collaborate on Web Development 
 - 📫 How to reach me 👇
 <a align="center" href="https://www.linkedin.com/in/ansh-goyal-211623228">
   <img align="left" alt="Ansh's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
