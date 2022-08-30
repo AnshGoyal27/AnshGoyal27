@@ -18,8 +18,8 @@
 
 # Skills
 
-[![My Skills](https://skills.thijs.gg/icons?i=c&theme=dark)](https://skills.thijs.gg) HackerRank ⭐⭐⭐⭐ <br/>
-[![My Skills](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg) HackerRank ⭐⭐⭐⭐⭐ <br/>
+[![My Skills](https://skills.thijs.gg/icons?i=c&theme=dark)](https://skills.thijs.gg) [HackerRank](https://www.hackerrank.com/anshgoyal27) ⭐⭐⭐⭐ <br/>
+[![My Skills](https://skills.thijs.gg/icons?i=py&theme=dark)](https://skills.thijs.gg) [HackerRank](https://www.hackerrank.com/anshgoyal27) ⭐⭐⭐⭐⭐ <br/>
 [![My Skills](https://skills.thijs.gg/icons?i=react,nodejs&theme=dark)](https://skills.thijs.gg) Learning through Brain Mentors
 
 <br/>
